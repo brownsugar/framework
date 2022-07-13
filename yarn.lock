@@ -2373,10 +2373,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^16.11.43":
-  version: 16.11.43
-  resolution: "@types/node@npm:16.11.43"
-  checksum: 96d09e68347c49ebf84fe1443360edc3f98336f0794256abc8e4f29ef3070546357cae17083d6fd9767b631239367c4f245fe64accff4af057d17bd6694f0b2b
+"@types/node@npm:^16.11.44":
+  version: 16.11.44
+  resolution: "@types/node@npm:16.11.44"
+  checksum: 6fc2214bab40bbab1d76e02bd2fbcc1b5ed0ae383b4c892bcde6c231734582fca8a45185eb1b0283bae434600d3e44bdacbbdc05725661910e6372778e1881c1
   languageName: node
   linkType: hard
 
@@ -9148,9 +9148,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nitropack@npm:^0.4.11":
-  version: 0.4.11
-  resolution: "nitropack@npm:0.4.11"
+"nitropack@npm:^0.4.12":
+  version: 0.4.12
+  resolution: "nitropack@npm:0.4.12"
   dependencies:
     "@cloudflare/kv-asset-handler": ^0.2.0
     "@netlify/functions": ^1.0.0
@@ -9214,7 +9214,7 @@ __metadata:
   bin:
     nitro: dist/cli.mjs
     nitropack: dist/cli.mjs
-  checksum: dfb5cf53511527a5cb858d7372dbdee4da3d7a854515de832a2b8d31f944de32c10f707e2a4dbaf36f58d8cbaaed899c1600d56aff675fc62aa9681d539eb6f4
+  checksum: 4f402457b558188253a3fde9bb130901e30b393854ca9f870e9a62940075c67f9a218efa4cad8cded5d1526f7fc24ca1ae091ee784a6da62d3dcbdf11fb95b7b
   languageName: node
   linkType: hard
 
@@ -9625,7 +9625,7 @@ __metadata:
   resolution: "nuxt-framework@workspace:."
   dependencies:
     "@nuxtjs/eslint-config-typescript": ^10.0.0
-    "@types/node": ^16.11.43
+    "@types/node": ^16.11.44
     "@types/rimraf": ^3
     "@unocss/reset": ^0.44.1
     case-police: ^0.5.6
@@ -9689,7 +9689,7 @@ __metadata:
     knitwork: ^0.1.2
     magic-string: ^0.26.2
     mlly: ^0.5.4
-    nitropack: ^0.4.11
+    nitropack: ^0.4.12
     nuxi: ^3.0.0-rc.5
     ohash: ^0.1.0
     ohmyfetch: ^0.4.18
